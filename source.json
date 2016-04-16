@@ -1,0 +1,23 @@
+{
+	"origin": ["One day I want to make a game about #mundane#", "One day I want to make a game about #mundane# .\n#fascinating#", "One day I want to make a game about #fluffy# #animal.s#", "Last night I dreamed about #mundane# .\nIt was #beautiful#", "I always wanted to live in #cozy.a# #home# #place#", "I always wanted to live in #cozy.a# #home# #place#\nwith a bunch of #fluffy# #animal.s#", "I love watching the clouds ☁️\nthis one looks like #clouds.a#", "Have you ever wondered what #animal.s# think about?"],
+
+
+
+	"mundane" : ["riding on a bus 🚌", "riding on a train 🚂", "watching plants grow 🌿", "going on a camping trip ⛺", "exploring the forest 🌲", "listening to bird songs 🐦", "touching soft moss", "helping little animals 🐣", "observing a snail 🐌", "caring for a little plant 🌱", "finding sea shells", "watching the sun set 🌅", "drinking a cup of tea 🍵", "sleeping in a bed of moss", "watching a forest grow 🌳", "collecting flowers 🌼", "listening to the sound of the rain 🌧", "feeling the rain on your face 🌧", "laying in the sun ☀️", "exploring a #cozy.a# #home#", "an adventure #place#"],
+	"beautiful":["beautiful", "wonderful", "otherworldly", "lovely", "nice"],
+	"fascinating":["Doing mundane activities in games is really thrilling to me", "We need more games about the little things in life", "It's something that means a lot to me", "Just creating something, I never will show someone else"],
+	
+
+	"home":["house", "home", "refuge", "tower", "shack", "treehouse", "cabin"],
+	"cozy":["cozy", "tiny", "remote", "overgrown", "lovely", "old", "warm", "beautiful", "ancient"],
+	"place":["in the forest", "on a strange planet", "on top of a cliff", "on top of the trees", "in a dense jungle", "in a little village", "next to a field of flowers", "on a tiny island", "next to a magical cave", "next to a little river", "on top of a mountain"],
+
+
+	"animal":["bear", "elephant", "dragon", "sheep 🐑", "puppy", "cat", "kitty", "crow", "deer", "fox", "frog", "owl", "badger", "mouse", "goat", "horse", "hedgehog", "rabbit", "tiger", "snake", "whale", "unicorn", "chicken", "squirrel", "turtle", "fish", "snail", "crab"],
+	"animalemo":["bear 🐻", "elephant 🐘", "dragon", "sheep", "puppy", "cat 🐱", "kitty", "crow", "deer", "fox", "frog 🐸", "owl", "badger", "mouse 🐭", "goat 🐐", "horse 🐴", "hedgehog", "rabbit 🐰", "tiger 🐯", "snake 🐍", "whale 🐳", "unicorn 🦄", "chicken 🐔", "squirrel 🐿", "turtle 🐢", "fish 🐟", "snail 🐌"],
+	"fluffy":["fluffy", "cute", "tiny", "huge", "very old", "sleeping"],
+	"clouds":[ "#fluffy# #animalemo#", "a group of #fluffy# #animal.s#", "#fluffy# #animalemo# #cloudaction#"],
+	"cloudaction":["doing a backflip", "laying in bed", "riding a bike", "with wings", "with horns", "contemplating life", "reading a book", "kissing the other clouds"]
+
+	
+}
