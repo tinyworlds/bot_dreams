@@ -1,5 +1,5 @@
 {
-	"origin": ["One day I want to make a game about #mundane#", "One day I want to make a game about #mundane# .\n#fascinating#", "One day I want to make a game about #fluffy# #animal.s#", "Last night I dreamed about #mundane#", "I always wanted to live in #cozy.a# #home# #place#", "I always wanted to live in #cozy.a# #home# #place#\nwith a bunch of #fluffy# #animal.s#", "I love watching the clouds ☁️\nthis one looks like #clouds.a#", "Have you ever wondered what #animal.s# think about?"],
+	"origin": ["One day I want to make a game about #mundane#", "One day I want to make a game about #mundane# .\n#fascinating#", "One day I want to make a game about #fluffy# #animal.s#", "Last night I dreamed about #mundane#", "I always wanted to live in #cozy.a# #home# #place#", "I always wanted to live in #cozy.a# #home# #place#\nwith a bunch of #fluffy# #animal.s#", "I love watching the clouds ☁️\nthis one looks like #clouds.a#", "Have you ever wondered what #animal.s# think about?", "What do #animal.s# do when you're not looking?", "#personality#"],
 
 
 
@@ -15,8 +15,9 @@
 	"animal":["bear", "elephant", "dragon", "sheep 🐑", "puppy", "cat", "kitty", "crow", "deer", "fox", "frog", "owl", "badger", "mouse", "goat", "horse", "hedgehog", "rabbit", "tiger", "snake", "whale", "unicorn", "chicken", "squirrel", "turtle", "fish", "snail", "crab"],
 	"animalemo":["bear 🐻", "elephant 🐘", "dragon", "sheep", "puppy", "cat 🐱", "kitty", "crow", "deer", "fox", "frog 🐸", "owl", "badger", "mouse 🐭", "goat 🐐", "horse 🐴", "hedgehog", "rabbit 🐰", "tiger 🐯", "snake 🐍", "whale 🐳", "unicorn 🦄", "chicken 🐔", "squirrel 🐿", "turtle 🐢", "fish 🐟", "snail 🐌"],
 	"fluffy":["fluffy", "cute", "tiny", "huge", "very old", "sleeping"],
-	"clouds":[ "#fluffy# #animalemo#", "a group of #fluffy# #animal.s#", "#fluffy# #animalemo# #cloudaction#"],
-	"cloudaction":["doing a backflip", "laying in bed", "riding a bike", "with wings", "with horns", "contemplating life", "reading a book", "kissing the other clouds"]
+	"clouds":["#fluffy# #animalemo#"],
+
+	"personality":["moo moo moon", "all my little friends shine bright tonight", "the earth seems so small from up here", "hello I'm the moon"]
 
 	
 }
