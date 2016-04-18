@@ -1,5 +1,5 @@
 {
-	"origin": ["One day I want to make a game about #mundane#", "One day I want to make a game about #mundane# .\n#fascinating#", "One day I want to make a game about #fluffy# #animal.s#", "Last night I dreamed about #mundane#", "I always wanted to live in #cozy.a# #home# #place#", "I always wanted to live in #cozy.a# #home# #place#\nwith a bunch of #fluffy# #animal.s#", "I love watching the clouds ☁️\nthis one looks like #clouds.a#", "Have you ever wondered what #animal.s# think about?", "What do #animal.s# do when you're not looking?", "#personality#"],
+	"origin": ["One day I want to make a game about #mundane#", "One day I want to make a game about #mundane# .\n#fascinating#", "One day I want to make a game about #fluffy# #animal.s#", "Last night I dreamed about #mundane#", "I always wanted to live in #cozy.a# #home# #place#", "I always wanted to live in #cozy.a# #home# #place#\nwith a bunch of #fluffy# #animal.s#", "I love watching the clouds ☁️\nthis one looks like #clouds.a##cloudimage#", "Have you ever wondered what #animal.s# think about?", "What do #animal.s# do when you're not looking?", "#personality#"],
 
 
 
@@ -12,12 +12,15 @@
 	"place":["in the forest", "on a strange planet", "on top of a cliff", "on top of the trees", "in a dense jungle", "in a little village", "next to a field of flowers", "on a tiny island", "next to a magical cave", "next to a little river", "on top of a mountain"],
 
 
-	"animal":["bear", "elephant", "dragon", "sheep 🐑", "puppy", "cat", "kitty", "crow", "deer", "fox", "frog", "owl", "badger", "mouse", "goat", "horse", "hedgehog", "rabbit", "tiger", "snake", "whale", "unicorn", "chicken", "squirrel", "turtle", "fish", "snail", "crab"],
-	"animalemo":["bear 🐻", "elephant 🐘", "dragon", "sheep", "puppy", "cat 🐱", "kitty", "crow", "deer", "fox", "frog 🐸", "owl", "badger", "mouse 🐭", "goat 🐐", "horse 🐴", "hedgehog", "rabbit 🐰", "tiger 🐯", "snake 🐍", "whale 🐳", "unicorn 🦄", "chicken 🐔", "squirrel 🐿", "turtle 🐢", "fish 🐟", "snail 🐌"],
+	"animal":["bear", "elephant", "dragon", "sheep 🐑", "puppy", "cat", "kitty", "crow", "deer", "fox", "frog", "owl", "badger", "mouse", "goat", "horse", "hedgehog", "rabbit", "tiger", "whale", "unicorn", "chicken", "squirrel", "turtle", "fish", "snail", "crab"],
+	"animalemo":["bear 🐻", "elephant 🐘", "dragon", "sheep", "puppy", "cat 🐱", "kitty", "crow", "deer", "fox", "frog 🐸", "owl", "badger", "mouse 🐭", "goat 🐐", "horse 🐴", "hedgehog", "rabbit 🐰", "tiger 🐯", "whale 🐳", "unicorn 🦄", "chicken 🐔", "squirrel 🐿", "turtle 🐢", "fish 🐟", "snail 🐌"],
 	"fluffy":["fluffy", "cute", "tiny", "huge", "very old", "sleeping"],
-	"clouds":["#fluffy# #animalemo#"],
 
-	"personality":["moo moo moon", "all my little friends shine bright tonight", "the earth seems so small from up here", "hello I'm the moon"]
+	"clouds":["#fluffy# #animalemo#"],
+	"cloudimage":["{svg <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"640\" height=\"425\"><image x=\"0\" y=\"0\" width=\"640px\" height=\"425px\" xlink:href=\"#cloudimages#\" /></svg>}", ""],
+	"cloudimages":["http://orig03.deviantart.net/902e/f/2016/109/3/8/hayden_valley_63564_640_by_rick_tinyworlds-d9zixv7.jpg", "http://orig07.deviantart.net/d649/f/2016/109/7/a/road_348544_640_by_rick_tinyworlds-d9zixuy.jpg", "http://orig01.deviantart.net/9d88/f/2016/109/4/f/andean_74781_640_by_rick_tinyworlds-d9zixuq.jpg", "http://orig08.deviantart.net/d038/f/2016/109/b/e/lake_430508_640_by_rick_tinyworlds-d9zixue.jpg", "http://orig15.deviantart.net/de65/f/2016/109/7/5/field_533541_640_by_rick_tinyworlds-d9zixu4.jpg", "http://orig10.deviantart.net/0d57/f/2016/109/0/6/blue_88523_640_by_rick_tinyworlds-d9zixtq.jpg", "http://orig14.deviantart.net/99ad/f/2016/109/9/7/field_175959_640_by_rick_tinyworlds-d9zixtb.jpg", "http://orig06.deviantart.net/79be/f/2016/109/a/4/cloud_8075_640_by_rick_tinyworlds-d9zixsz.jpg", "http://orig02.deviantart.net/3eed/f/2016/109/7/6/sun_203792_640_by_rick_tinyworlds-d9zixsu.jpg", "http://orig15.deviantart.net/d1f1/f/2016/109/8/d/clouds_1117607_640_by_rick_tinyworlds-d9zixsh.jpg", "http://orig07.deviantart.net/ba5e/f/2016/109/0/c/sky_414198_640_by_rick_tinyworlds-d9zixs4.jpg", "http://orig10.deviantart.net/9763/f/2016/109/f/c/sky_383823_640_by_rick_tinyworlds-d9zixru.jpg"],
+
+	"personality":["moo moo moon", "all my little friends shine bright tonight", "the earth seems so small from up here", "hello I'm Mr. Moon", "the clouds are so fluffy"]
 
 	
 }
