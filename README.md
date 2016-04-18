@@ -1,4 +1,4 @@
-A daydreaming Twitter Bot  
+![avatar](http://orig06.deviantart.net/e777/f/2016/109/e/a/daydreambot4b_100px_by_rick_tinyworlds-d9zifiv.jpg) A daydreaming Twitter Bot  
 https://twitter.com/bot_dreams
 
 ##Example
