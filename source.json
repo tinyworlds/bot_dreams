@@ -1,7 +1,10 @@
 {
-	"origin": ["#CTA# about #Inspiration#!\n#Why#.", "What is #Inspiration#? #CTA# about it!\n#Why#."],
+	"origin": ["#CTA# about #Inspiration#!\n#Why##end#", "What is #Inspiration#? #CTA# about it!\n#Why##end#"],
 	"CTA":["Go make a game", "Hey! Go make a game", "Make a little game", "Make a quick & crappy game", "Go make a short game", "Make a tiny game", "You should make a game"],
 	"Inspiration": ["a good conversation you had", "your favorite place", "something you dreamed last night", "your personal refuge to retreat to", "a little moment you think was wonderful", "something you'd like the world to know", "one of your favorite adventures"],
 
-	"Why":["Show people your personal view of the world", "Games don't have to be about saving the world", "Tell people a story they never heard before", "Feel free to forget about design rules for your game", "Don't plan too much, just create", "It's ok & wonderful to make games about yourself", "You don’t have to be part of videogame culture to make and LOVE videogames", "P.S.: Your worth is not tied to your work"]
+	"Why":["Show people your personal view of the world", "Games don't have to be about saving the world", "Tell people a story they never heard before", "Feel free to forget about design rules for your game", "Don't plan too much, just create", "It's ok & wonderful to make games about yourself", "You don’t have to be part of videogame culture to make and LOVE videogames", "P.S.: Your worth is not tied to your work"],
+
+	"end":[".", " #decoration#"],
+	"decoration":["❤️", "💕", "❣", "😘", "😊", "☺️", "😎", "😋", "🤗", "👏", "💌", "🐘", "🐀", "🐳", "✨", "🌟", "⭐"]
 }
