@@ -1,9 +1,9 @@
 {
-	"origin": ["#oneday# about #mundane#\n#fascinating#\n#loveemoji##loveemoji##loveemoji#", "I think this cloud looks like #clouds.a# ☁️\n#what##cloudimage#", "#oneday# #place# - \n#fieldresearch# #loveemoji#"],
+	"origin": ["#oneday# about #mundane##ending#\n#fascinating##loveemoji#", "I think this cloud looks like #clouds.a# ☁️\n#what##cloudimage#", "#oneday# #place# - \n#fieldresearch# #loveemoji#"],
 
 
 
-	"mundane" : ["riding on a bus 🚌", "riding on a train 🚂", "watching plants grow 🌿", "going on a camping trip ⛺", "exploring the forest 🌲", "listening to bird songs 🐦", "touching soft moss", "helping little animals 🐣", "observing a snail 🐌", "caring for a little plant 🌱", "finding sea shells", "watching the sun set 🌅", "drinking a cup of tea 🍵", "sleeping in a bed of moss", "watching a forest grow 🌳", "collecting flowers 🌼", "listening to the sound of the rain 🌧", "feeling the rain on your face 🌧", "laying in the sun ☀️", "exploring a #cozy.a# #home#", "an adventure #place#"],
+	"mundane" : ["riding on a bus 🚌", "riding on a train 🚂", "watching plants grow 🌿", "going on a camping trip ⛺", "exploring the forest 🌲", "listening to bird songs 🐦", "touching soft moss", "helping little animals 🐣", "observing a snail 🐌", "caring for a little plant 🌱", "finding sea shells", "watching the sun set 🌅", "drinking a cup of tea 🍵", "sleeping in a bed of moss", "watching a forest grow 🌳", "collecting flowers 🌼", "listening to the sound of the rain 🌧", "feeling the rain on your face 🌧", "laying in the sun ☀️", "exploring a #cozy.a# #home#", "an adventure #place#", "your favorite place", "a secret place only you know"],
 	"fascinating":["We need more games about mundane things", "We need more games about the little things in life", "Games don't have to be about saving the world", "Show people your personal view on the world"],
 	"dreamy":["so beautiful", "glowing softly", "covered in a fine mist"],
 	
@@ -24,6 +24,7 @@
 	"loveemoji":["❤", "✨", "💕", "😊", "😍", "☺️", "👏", "💕", "💞", "💖", "💫"],
 	"what":["What do you think?", "Do you see it?", "What else do you see?", "What is #heshe# doing?"],
 	"heshe":["he", "she"],
+	"ending":["!", ".", "", "#loveemoji#"],
 	"oneday":["Let's make a game", "Go make a game", "You should make a game", "It would be inspiring to create a game", "Hey! Go make a game", "Make a little game", "Make a quick game"],
 	"fieldresearch":[" Nothing can replace the magical moments that occur in the field", "Research is creating new knowledge", "Go build the most beautiful place in the world", "Every experience is a form of exploration", "Go tell people a story they haven't heard before", "Show people your personal view of the world", "Working in the field is very inspiring", "Field research is super inspiring"]
 
