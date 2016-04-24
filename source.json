@@ -1,32 +1,7 @@
 {
-	"origin": ["#oneday# about #mundane##ending#\n#fascinating##loveemoji#", "I think this cloud looks like #clouds.a# ☁️\n#what##cloudimage#", "#oneday# #place# - \n#fieldresearch# #loveemoji#"],
+	"origin": ["#CTA# about #Inspiration#!\n#Why#.", "What is #Inspiration#? #CTA# about it!\n#Why#."],
+	"CTA":["Go make a game", "Hey! Go make a game", "Make a little game", "Make a quick & crappy game", "Go make a short game", "Make a tiny game", "You should make a game"],
+	"Inspiration": ["a good conversation you had", "your favorite place", "something you dreamed last night", "your personal refuge to retreat to", "a little moment you think was wonderful", "something you'd like the world to know", "one of your favorite adventures"],
 
-
-
-	"mundane" : ["riding on a bus 🚌", "riding on a train 🚂", "watching plants grow 🌿", "going on a camping trip ⛺", "exploring the forest 🌲", "listening to bird songs 🐦", "touching soft moss", "helping little animals 🐣", "observing a snail 🐌", "caring for a little plant 🌱", "finding sea shells", "watching the sun set 🌅", "drinking a cup of tea 🍵", "sleeping in a bed of moss", "watching a forest grow 🌳", "collecting flowers 🌼", "listening to the sound of the rain 🌧", "feeling the rain on your face 🌧", "laying in the sun ☀️", "exploring a #cozy.a# #home#", "an adventure #place#", "your favorite place", "a secret place only you know"],
-	"fascinating":["We need more games about mundane things", "We need more games about the little things in life", "Games don't have to be about saving the world", "Show people your personal view on the world"],
-	"dreamy":["so beautiful", "glowing softly", "covered in a fine mist"],
-	
-
-	"home":["house", "home", "refuge", "tower", "shack", "treehouse", "cabin"],
-	"cozy":["cozy", "tiny", "remote", "overgrown", "lovely", "old", "warm", "beautiful", "ancient"],
-	"place":["in the forest", "on a strange planet", "on top of a cliff", "on top of the trees", "in a dense jungle", "in a little village", "next to a field of flowers", "on a tiny island", "next to a magical cave", "next to a little river", "on top of a mountain"],
-
-
-	"animal":["bear", "elephant", "dragon", "sheep 🐑", "puppy", "cat", "kitty", "crow", "deer", "fox", "frog", "owl", "badger", "mouse", "goat", "horse", "hedgehog", "rabbit", "tiger", "whale", "unicorn", "chicken", "squirrel", "turtle", "fish", "snail", "crab"],
-	"animalemo":["bear 🐻", "elephant 🐘", "dragon", "sheep", "puppy", "cat 🐱", "kitty", "crow", "deer", "fox", "frog 🐸", "owl", "badger", "mouse 🐭", "goat 🐐", "horse 🐴", "hedgehog", "rabbit 🐰", "tiger 🐯", "whale 🐳", "unicorn 🦄", "chicken 🐔", "squirrel 🐿", "turtle 🐢", "fish 🐟", "snail 🐌"],
-	"fluffy":["fluffy", "cute", "tiny", "huge", "very old", "sleeping"],
-
-	"clouds":["#fluffy# #animalemo#"],
-	"cloudimage":["{svg <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"640\" height=\"425\"><image x=\"0\" y=\"0\" width=\"640px\" height=\"425px\" xlink:href=\"#cloudimages#\" /></svg>}"],
-	"cloudimages":["http://orig03.deviantart.net/902e/f/2016/109/3/8/hayden_valley_63564_640_by_rick_tinyworlds-d9zixv7.jpg", "http://orig07.deviantart.net/d649/f/2016/109/7/a/road_348544_640_by_rick_tinyworlds-d9zixuy.jpg", "http://orig01.deviantart.net/9d88/f/2016/109/4/f/andean_74781_640_by_rick_tinyworlds-d9zixuq.jpg", "http://orig08.deviantart.net/d038/f/2016/109/b/e/lake_430508_640_by_rick_tinyworlds-d9zixue.jpg", "http://orig15.deviantart.net/de65/f/2016/109/7/5/field_533541_640_by_rick_tinyworlds-d9zixu4.jpg", "http://orig10.deviantart.net/0d57/f/2016/109/0/6/blue_88523_640_by_rick_tinyworlds-d9zixtq.jpg", "http://orig14.deviantart.net/99ad/f/2016/109/9/7/field_175959_640_by_rick_tinyworlds-d9zixtb.jpg", "http://orig06.deviantart.net/79be/f/2016/109/a/4/cloud_8075_640_by_rick_tinyworlds-d9zixsz.jpg", "http://orig02.deviantart.net/3eed/f/2016/109/7/6/sun_203792_640_by_rick_tinyworlds-d9zixsu.jpg", "http://orig15.deviantart.net/d1f1/f/2016/109/8/d/clouds_1117607_640_by_rick_tinyworlds-d9zixsh.jpg", "http://orig07.deviantart.net/ba5e/f/2016/109/0/c/sky_414198_640_by_rick_tinyworlds-d9zixs4.jpg", "http://orig10.deviantart.net/9763/f/2016/109/f/c/sky_383823_640_by_rick_tinyworlds-d9zixru.jpg"],
-
-	"loveemoji":["❤", "✨", "💕", "😊", "😍", "☺️", "👏", "💕", "💞", "💖", "💫"],
-	"what":["What do you think?", "Do you see it?", "What else do you see?", "What is #heshe# doing?"],
-	"heshe":["he", "she"],
-	"ending":["!", ".", "", "#loveemoji#"],
-	"oneday":["Let's make a game", "Go make a game", "You should make a game", "It would be inspiring to create a game", "Hey! Go make a game", "Make a little game", "Make a quick game"],
-	"fieldresearch":[" Nothing can replace the magical moments that occur in the field", "Research is creating new knowledge", "Go build the most beautiful place in the world", "Every experience is a form of exploration", "Go tell people a story they haven't heard before", "Show people your personal view of the world", "Working in the field is very inspiring", "Field research is super inspiring"]
-
-	
+	"Why":["Show people your personal view of the world", "Games don't have to be about saving the world", "Tell people a story they never heard before", "Feel free to forget about design rules for your game", "Don't plan too much, just create", "It's ok & wonderful to make games about yourself"]
 }
