@@ -10,4 +10,8 @@ _Games don't have to be about saving the world ☺️"_
 A big thanks to [LLaura Dreamfeel](https://twitter.com/dreamfeelx), [@vaidap](https://github.com/vaidap), [@McFunkyPants](https://github.com/McFunkypants) and [Florian Veltman](https://twitter.com/FlorianVltmn)!  
 Without you this bot wouldn't have been possible!  
   
-And a special thanks to [@v21](https://github.com/v21) for creating Cheapbotsdonequick.com, which did let me get started with creating my own Twitter bots!
+And a special thanks to [@v21](https://github.com/v21) for creating [Cheapbotsdonequick.com](http://cheapbotsdonequick.com/), which did let me get started with creating my own Twitter bots!  
+  
+###license
+The code of this bot is licensed as [CC0/Public Domain](https://creativecommons.org/choose/zero/)!  
+Feel free to do whatever you want with it, no need to give me credit ;)
