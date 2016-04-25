@@ -7,6 +7,7 @@ _"Go make a game about exploring the forest 🌲!_
 _Games don't have to be about saving the world ☺️"_
 
 ###credits
+While I take full responsibility in case my bot is behaving badly, I'd like to thank some people who helped me with the creation.
 A big thanks to [LLaura Dreamfeel](https://twitter.com/dreamfeelx), [@vaidap](https://github.com/vaidap), [@McFunkyPants](https://github.com/McFunkypants) and [Florian Veltman](https://twitter.com/FlorianVltmn)!  
 Without you this bot wouldn't have been possible!  
   
