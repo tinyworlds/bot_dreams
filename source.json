@@ -1,10 +1,15 @@
 {
-	"origin": ["#CTA# about #Inspiration#!\n#Why##end#", "What is #Inspiration#? #CTA# about it!\n#Why##end#"],
+	"origin": ["#CTA# about #Inspiration#!\n#Why##end#", "What is #Inspiration#? #CTA# about it!\n#Why##end#", "#CTA# #place#\n#whyfieldresearch##end#", "What is #Inspiration#?#end#", "#CTA# about #Inspiration2# !"],
 	"CTA":["Go make a game", "Hey! Go make a game", "Make a little game", "Make a quick & crappy game", "Go make a short game", "Make a tiny game", "You should make a game"],
-	"Inspiration": ["a good conversation you had", "your favorite place", "something you dreamed last night", "your personal refuge to retreat to", "a little moment you think was wonderful", "something you'd like the world to know", "one of your favorite adventures", "your morning routine", "your most recent daydream", "your favorite childhood memory", "a personal loss you suffered", "your biggest dream for the future"],
+	"Inspiration": ["a good conversation you had", "your favorite place", "something you dreamed last night", "your personal refuge to retreat to", "a little moment you think was wonderful", "something you'd like the world to know", "one of your favorite adventures", "your most recent daydream", "your favorite childhood memory", "your biggest dream for the future", "your childhood dream"],
 
-	"Why":["Show people your personal view of the world", "Games don't have to be about saving the world", "Tell people a story they never heard before", "Feel free to forget about design rules for your game", "Don't plan too much, just create", "It's ok & wonderful to make games about yourself", "You don’t have to be part of videogame culture to make and LOVE videogames", "P.S.: Your worth is not tied to your work", "Think about how your other creative activities could inform your game", "Put on a good song & just start creating", "Feel free to keep it raw & sketchy", "Feel free to do some field research"],
+	"Inspiration2":["riding on a bus 🚌", "riding on a train 🚂", "watching plants grow 🌿", "going on a camping trip ⛺", "exploring the forest 🌲", "listening to bird songs 🐦", "touching soft moss", "helping little animals 🐣", "observing a snail 🐌", "caring for a little plant 🌱", "finding sea shells", "watching the sun set 🌅", "drinking a cup of tea 🍵", "sleeping in a bed of moss", "watching a forest grow 🌳", "collecting flowers 🌼", "listening to the sound of the rain 🌧", "feeling the rain on your face 🌧", "laying in the sun ☀️"],
 
-	"end":[".", " #decoration#"],
+	"Why":["Show people your personal view of the world", "Games don't have to be about saving the world", "Tell people a story they never heard before", "Feel free to forget about design rules for your game", "Don't plan too much, just create", "You don’t have to be part of videogame culture to make and LOVE videogames", "P.S.: Your worth is not tied to your work", "Think about how your other creative activities could inform your game", "Put on a good song & just start creating", "Feel free to keep it raw & sketchy", "Feel free to do some field research"],
+
+	"place":["in a nearby coffee shop ☕", "in a nearby forest 🌲", "in your garden 🌿", "in the train 🚄", "in the plane ✈️"], 
+	"whyfieldresearch":["Go build the most beautiful place in the world", "Let the place inspire you", "Field research is super inspiring", "Get outside & create", "#Why#"],
+
+	"end":[" #decoration#"],
 	"decoration":["❤️", "💕", "❣", "😘", "😊", "☺️", "😎", "😋", "🤗", "👏", "💌", "🐘", "🐀", "🐳", "✨", "🌟", "⭐"]
 }
