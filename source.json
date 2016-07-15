@@ -1,5 +1,5 @@
 {
-	"origin": ["#CTA# #place#\n#whyfieldresearch##end#", "Game idea: A game about #Inspiration2#", "Making games in #place# could be pretty inspiring#end# !", "What is #Inspiration#?\n#CTA# about it!#end#", "#rare#"],
+	"origin": ["#CTA# #place#\n#whyfieldresearch##end#", "Game idea: A game about #Inspiration2#", "Making games in #place# could be pretty inspiring#end# !", "What is #Inspiration#?\n#CTA# about it!#end#", "#rare#", "Gameart Experiment: Use #material# to create the art of your game!"],
 
 	"rare":["#Why##end#", "#CTA# about #Inspiration2# !", "#Inspiration3#"],
 
@@ -12,10 +12,12 @@
 	"feeling":["listening to the sound of the rain 🌧", "listening to bird songs 🐦", "listening to the sound of the waves 🌊", "listening to the sound of the rain 🌧", "feeling the warm sun on your face ☀", "watching the leaves fall 🍂"],
 	"activity":["walking trough the forest 🌲", "sitting on the veranda with a good book 📚", "observing wild animals 🐻", "sleeping in a bed of moss", "sitting by the ocean 🐳"],
 
-	"Why":["Show people your personal view of the world", "Games don't have to be about saving the world", "Tell people a story they never heard before", "Feel free to forget about design rules for your game", "Don't plan too much, just create", "You don’t have to be part of videogame culture to make and LOVE videogames", "P.S.: Your worth is not tied to your work", "Think about how your other creative activities could inform your game", "Put on a good song & just start creating", "Feel free to keep it raw & sketchy", "Feel free to do some field research", "Maybe try to express emotional experience rather than physical reality"],
+	"Why":["Show people your personal view of the world", "Games don't have to be about saving the world", "Tell people a story they never heard before", "Feel free to forget about design rules for your game", "Don't plan too much, just create", "You don’t have to be part of videogame culture to make and LOVE videogames", "P.S.: Your worth is not tied to your work", "Think about how your other creative activities could inform your game", "Put on a good song & just start creating", "Feel free to keep it raw & sketchy", "Feel free to do some field research", "Maybe try to express emotional experience rather than physical reality", "Feel free to experiment & have fun!"],
 
-	"place":["in a nearby coffee shop ☕", "in a nearby forest 🌲", "in your garden 🌿", "in the train 🚄", "in the plane ✈️", "in a public library 📚", "on a roadtrip 🚐", "in another country", "on a camping trip ⛺", "in a tree house 🌳", "next to a creek in the forest 🌲"], 
-	"whyfieldresearch":["Go build the most beautiful place in the world", "Let the place inspire you", "Field research is super inspiring", "Get outside & create", "#Why#", "Try to understand how this place feels and looks like", "Try to observe and understand this place", "Observe this place and reflect on your findings", "Create quick studies to understand this place"],
+	"place":["in a nearby coffee shop ☕", "in a nearby forest 🌲", "in your garden 🌿", "in the train 🚄", "in the plane ✈️", "in a public library 📚", "on a roadtrip 🚐", "in another country", "on a camping trip ⛺", "in a tree house 🌳", "next to a creek in the forest 🌲", "in a self-made cardboard castle 🏰", "in a kindergarden", "on a house-boat", "next to the ocean 🌊", "sitting in soft moss 🌱"], 
+	"whyfieldresearch":["Go build the most beautiful place in the world", "Let the place inspire you", "Field research is super inspiring", "Get outside & create", "#Why#", "Try to understand how this place feels and looks like", "Try to observe and understand this place", "Observe this place and reflect on your findings", "Create quick studies to understand this place", "Relax & enjoy your time here"],
+
+	"material":["pebbles", "seashells 🐚", "felt pens ✏", "crayons", "watercolors 🎨", "modeling clay", "colorful leaves 🍂", "coffee ☕", "origami paper 📄", "macro photos 📄", "flower pedals 🌸", "lipstick 💄", "dried leaves 🍀", "markers", "glitter", "playdough", "food items 🍲", "wool", "scrap wood", "old photos 🎥", "cardboard", "glass shards", "things you found #place#", "chalk", "oil pastels", "spray paint", "feathers"],
 
 	"end":[" #decoration#"],
 	"decoration":["❤️", "💕", "❣", "😘", "😊", "☺️", "😎", "😋", "🤗", "👏", "💌", "🐘", "🐀", "🐳", "✨", "🌟", "⭐"]
